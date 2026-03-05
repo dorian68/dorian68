@@ -1,12 +1,15 @@
+![Hero](/assets/hero.svg)
+
 # Dorian Labry
 <p align="center"><b>Quantitative Developer | Financial Engineer | Trading Systems | Risk Analytics | AI Automation</b><br>
 I build production-ready tools that turn market data into actionable signals, robust backtests, and decision dashboards. Remote-friendly. Working in English and French.</p>
 
 > Need a quant prototype, a risk audit, or a desk-ready tool? Message me on Upwork.
 
----
+![Divider](/assets/divider.svg)
 
 ## Metrics
+![Metrics](/assets/metrics-strip.svg)
 <table>
   <tr>
     <td align="center"><b>8+ years</b><br>Markets & risk</td>
@@ -18,7 +21,7 @@ I build production-ready tools that turn market data into actionable signals, ro
   </tr>
 </table>
 
----
+![Divider](/assets/divider.svg)
 
 ## Engagements, portfolio, and case studies
 <table>
@@ -61,7 +64,7 @@ I build production-ready tools that turn market data into actionable signals, ro
   </tr>
 </table>
 
----
+![Divider](/assets/divider.svg)
 
 ## Background
 - Founder and Quant/AI Developer, OptiQuant IA (2024 - Present)
