@@ -1,13 +1,12 @@
 # Dorian Labry
-**Quantitative Developer | Financial Engineer | Trading Systems | Risk Analytics | AI Automation**
-
-I build production-ready tools that turn market data into actionable signals, robust backtests, and decision dashboards. Remote-friendly. Working in English and French.
+<p align="center"><b>Quantitative Developer | Financial Engineer | Trading Systems | Risk Analytics | AI Automation</b><br>
+I build production-ready tools that turn market data into actionable signals, robust backtests, and decision dashboards. Remote-friendly. Working in English and French.</p>
 
 > Need a quant prototype, a risk audit, or a desk-ready tool? Message me on Upwork.
 
 ---
 
-## At a glance
+## Executive snapshot
 | Area | Details |
 | --- | --- |
 | Focus | Trading systems, risk analytics, financial automation, AI workflows |
@@ -15,6 +14,15 @@ I build production-ready tools that turn market data into actionable signals, ro
 | Clients | Trading desks, risk teams, asset managers, SMEs |
 | Location | Paris / Guadeloupe (remote) |
 | Languages | English, French, Spanish |
+
+---
+
+## Proof
+| Signal | Evidence |
+| --- | --- |
+| Quant + AI SaaS | Founder of OptiQuant IA, building AlphaLens AI |
+| Enterprise finance | Delivered tooling for BNP Paribas Cardif, CACIB, Natixis, Societe Generale, AXA |
+| Education impact | The Pricing Library reached 1000+ learners |
 
 ---
 
@@ -76,7 +84,7 @@ I build production-ready tools that turn market data into actionable signals, ro
 ---
 
 ## Workflow
-Discovery → Prototype → Productionize → Handover
+Discovery -> Prototype -> Productionize -> Handover
 
 ---
 
