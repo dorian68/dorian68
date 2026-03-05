@@ -13,6 +13,8 @@ I build production-ready tools that turn market data into actionable signals, ro
     <td align="center"><b>5+ institutions</b><br>Tier-1 banks/asset managers</td>
     <td align="center"><b>1000+ learners</b><br>The Pricing Library</td>
     <td align="center"><b>3 languages</b><br>English, French, Spanish</td>
+    <td align="center"><b>14 Quant & Risk Systems</b><br>VaR, PnL, backtesting, regime control, pricing</td>
+    <td align="center"><b>6 AI/LLM Finance Tools</b><br>RAG, multi-agent research, prompt-to-app, market briefings</td>
   </tr>
 </table>
 
