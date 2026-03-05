@@ -1,27 +1,60 @@
 # Dorian Labry
-Quantitative Developer | Financial Engineer | Trading Systems | Risk Analytics | AI Automation
+**Quantitative Developer | Financial Engineer | Trading Systems | Risk Analytics | AI Automation**
 
-I build production-ready tools that turn market data into actionable signals, robust backtests, and decision dashboards.
+I build production-ready tools that turn market data into actionable signals, robust backtests, and decision dashboards. Remote-friendly. Working in English and French.
 
-Remote friendly. Working in French and English.
-
-> Besoin d'un prototype quant, d'un audit risque, ou d'un outil desk-ready? Contactez-moi sur Upwork.
+> Need a quant prototype, a risk audit, or a desk-ready tool? Message me on Upwork.
 
 ---
 
-## Profil en bref
-| Axe | Details |
+## At a glance
+| Area | Details |
 | --- | --- |
 | Focus | Trading systems, risk analytics, financial automation, AI workflows |
-| Domaines | Macro, equities, FX, crypto, portfolio monitoring |
+| Domains | Macro, equities, FX, crypto, portfolio monitoring |
 | Clients | Trading desks, risk teams, asset managers, SMEs |
-| Localisation | Paris / Guadeloupe (remote) |
-| Langues | French, English, Spanish |
+| Location | Paris / Guadeloupe (remote) |
+| Languages | English, French, Spanish |
+
+---
+
+## Engagements and case studies
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Engagement types</b><br><br>
+      <b>Quant and data audit</b><br>
+      Validate an idea or diagnose a pipeline.<br>
+      Deliverable: clear report, quick wins, action plan.<br><br>
+      <b>Strategy prototype</b><br>
+      Test a strategy quickly with measurable KPIs.<br>
+      Deliverable: backtest, risk controls, reproducible notebook.<br><br>
+      <b>Desk-ready tooling</b><br>
+      Reliable tools for risk and trading teams.<br>
+      Deliverable: app or Excel/VBA, logs, documentation.<br><br>
+      <b>AI for research</b><br>
+      Enhance macro or sector analysis with LLMs.<br>
+      Deliverable: RAG pipeline, agents, API, dashboard.
+    </td>
+    <td width="50%" valign="top">
+      <b>Mini case studies</b><br><br>
+      <b>Risk and PnL monitoring</b><br>
+      Production and certification of VaR/SVaR/Greeks/limits and PnL explain.<br>
+      Impact: reliable indicators and industrialized workflows.<br><br>
+      <b>Trading floor proximity tools</b><br>
+      Rapid tooling for rates, equities, and quant teams.<br>
+      Impact: tools adopted by front office and investment teams.<br><br>
+      <b>AlphaLens AI</b><br>
+      Real-time macro commentary and signal generation.<br>
+      Impact: scalable assistant for research and decision support.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Portfolio snapshot
-| Projet | Ce que cela fait | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
 | AlphaLens AI | Macro commentary + market signals with multi-agent LLMs | Python, RAG, Supabase, N8N, AWS |
 | Risk and PnL monitoring | VaR/SVaR/Greeks/limits + PnL explain tooling | VBA, Python, Power BI |
@@ -31,32 +64,19 @@ Remote friendly. Working in French and English.
 
 ---
 
-## Mini case studies
-| Cas | Contexte | Approche | Impact |
-| --- | --- | --- | --- |
-| Risk and PnL monitoring | Production and certification of VaR/SVaR/Greeks/limits and PnL explain | Automated controls, dashboards, sanity checks | Indicators fiabilises, workflows industrialises |
-| Trading floor proximity tools | Rapid tooling for rates, equities, and quant teams | Lean delivery, tight feedback loop, reliable releases | Tools adopted by front office and investment teams |
-| AlphaLens AI | Real-time macro commentary and signal generation | Multi-agent RAG, Supabase backend, N8N orchestration, AWS | Scalable assistant for research and decision support |
+## Typical deliverables
+| Area | Examples |
+| --- | --- |
+| Trading systems | Strategy prototyping, backtesting engines, execution workflows |
+| Risk analytics | VaR/SVaR, Greeks, limits monitoring, PnL explain |
+| Data engineering | Market data pipelines, API integrations, automated reporting |
+| Desk tools | Excel/VBA proximity tools, Python utilities, dashboards |
+| AI tooling | RAG pipelines, multi-agent workflows, research assistants |
 
 ---
 
-## Offres types
-| Offre | Ideal pour | Livrables |
-| --- | --- | --- |
-| Audit quant et data | Valider une idee, diagnostiquer un pipeline | Rapport clair, quick wins, plan d'action |
-| Prototype de strategie | Tester rapidement une strategie | Backtest, KPIs, risk controls, notebook reproductible |
-| Tooling desk-ready | Outils fiables pour equipes risques et trading | Application ou Excel/VBA, logs, doc, support |
-| AI pour la recherche | Augmenter l'analyse macro ou sectorielle | RAG pipeline, agents, API, dashboard |
-
----
-
-## Livrables courants
-- Trading strategy prototyping and backtesting engines
-- Risk and PnL analytics (VaR, SVaR, Greeks, limits monitoring, PnL explain)
-- Market data pipelines (OHLCV, real-time feeds) and API integrations
-- Portfolio monitoring dashboards and automated reporting
-- Excel/VBA proximity tools for desks and investment teams
-- LLM and RAG tooling for research and decision support
+## Workflow
+Discovery → Prototype → Productionize → Handover
 
 ---
 
@@ -84,10 +104,3 @@ Cloud and ops: AWS (EC2, S3), Supabase, Stripe, logging and monitoring.
 - Executive Master in Quantitative Finance (Double Degree), Paris Dauphine-PSL and ENSAE Paris, 2022-2023.
 - Engineering Degree in Financial Engineering, ESILV, 2015-2018.
 - Bloomberg Market Concepts (BMC), TOEIC 805.
-
----
-
-## Contact
-- Upwork: message me here.
-- Personal: https://dorianlabry.fr
-- Company: https://optiquant-ia.com
