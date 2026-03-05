@@ -20,18 +20,10 @@ I build production-ready tools that turn market data into actionable signals, ro
 
 ---
 
-## Snapshot and portfolio
+## Engagements, portfolio, and case studies
 <table>
   <tr>
-    <td width="45%" valign="top">
-      <b>Snapshot</b><br><br>
-      Focus: trading systems, risk analytics, financial automation, AI workflows.<br>
-      Domains: macro, equities, FX, crypto, portfolio monitoring.<br>
-      Clients: trading desks, risk teams, asset managers, SMEs.<br>
-      Location: Paris / Guadeloupe (remote).<br>
-      Languages: English, French, Spanish.
-    </td>
-    <td width="55%" valign="top">
+    <td width="34%" valign="top">
       <b>Portfolio highlights</b><br><br>
       <b>AlphaLens AI</b> - Macro commentary + market signals with multi-agent LLMs. Stack: Python, RAG, Supabase, N8N, AWS.<br><br>
       <b>Risk and PnL monitoring</b> - VaR/SVaR/Greeks/limits + PnL explain tooling. Stack: VBA, Python, Power BI.<br><br>
@@ -39,15 +31,7 @@ I build production-ready tools that turn market data into actionable signals, ro
       <b>Financial process automation</b> - Desk tools and reporting automation. Stack: Excel/VBA, Python, SQL.<br><br>
       <b>The Pricing Library</b> - Quant finance education platform. Stack: Web + Python tooling.
     </td>
-  </tr>
-</table>
-
----
-
-## Engagements and case studies
-<table>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <b>Engagement types</b><br><br>
       <b>Quant and data audit</b><br>
       Validate an idea or diagnose a pipeline.<br>
@@ -62,7 +46,7 @@ I build production-ready tools that turn market data into actionable signals, ro
       Enhance macro or sector analysis with LLMs.<br>
       Deliverable: RAG pipeline, agents, API, dashboard.
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <b>Mini case studies</b><br><br>
       <b>Risk and PnL monitoring</b><br>
       Production and certification of VaR/SVaR/Greeks/limits and PnL explain.<br>
