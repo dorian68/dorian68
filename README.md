@@ -1,7 +1,5 @@
 ![Hero](/assets/hero.svg)
 
-> Need a quant prototype, a risk audit, or a desk-ready tool? Message me on Upwork.
-
 ![Divider](/assets/divider.svg)
 
 ## Metrics
