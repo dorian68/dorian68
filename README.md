@@ -5,17 +5,52 @@ I build production-ready tools that turn market data into actionable signals, ro
 
 Remote friendly. Working in French and English.
 
----
-
-## Why clients hire me
-- Clear business outcomes, not just code.
-- Fast prototyping with production-ready quality.
-- Deep domain knowledge in quant, risk, and trading.
-- Fluent collaboration with front-office, risk, and IT.
+> Besoin d'un prototype quant, d'un audit risque, ou d'un outil desk-ready? Contactez-moi sur Upwork.
 
 ---
 
-## What I deliver
+## Profil en bref
+| Axe | Details |
+| --- | --- |
+| Focus | Trading systems, risk analytics, financial automation, AI workflows |
+| Domaines | Macro, equities, FX, crypto, portfolio monitoring |
+| Clients | Trading desks, risk teams, asset managers, SMEs |
+| Localisation | Paris / Guadeloupe (remote) |
+| Langues | French, English, Spanish |
+
+---
+
+## Portfolio snapshot
+| Projet | Ce que cela fait | Stack |
+| --- | --- | --- |
+| AlphaLens AI | Macro commentary + market signals with multi-agent LLMs | Python, RAG, Supabase, N8N, AWS |
+| Risk and PnL monitoring | VaR/SVaR/Greeks/limits + PnL explain tooling | VBA, Python, Power BI |
+| Trading strategy research | Backtests and KPI reporting for decision making | Python, Pandas, NumPy |
+| Financial process automation | Fast desk tools and reporting automation | Excel/VBA, Python, SQL |
+| The Pricing Library | Quant finance education platform | Web + Python tooling |
+
+---
+
+## Mini case studies
+| Cas | Contexte | Approche | Impact |
+| --- | --- | --- | --- |
+| Risk and PnL monitoring | Production and certification of VaR/SVaR/Greeks/limits and PnL explain | Automated controls, dashboards, sanity checks | Indicators fiabilises, workflows industrialises |
+| Trading floor proximity tools | Rapid tooling for rates, equities, and quant teams | Lean delivery, tight feedback loop, reliable releases | Tools adopted by front office and investment teams |
+| AlphaLens AI | Real-time macro commentary and signal generation | Multi-agent RAG, Supabase backend, N8N orchestration, AWS | Scalable assistant for research and decision support |
+
+---
+
+## Offres types
+| Offre | Ideal pour | Livrables |
+| --- | --- | --- |
+| Audit quant et data | Valider une idee, diagnostiquer un pipeline | Rapport clair, quick wins, plan d'action |
+| Prototype de strategie | Tester rapidement une strategie | Backtest, KPIs, risk controls, notebook reproductible |
+| Tooling desk-ready | Outils fiables pour equipes risques et trading | Application ou Excel/VBA, logs, doc, support |
+| AI pour la recherche | Augmenter l'analyse macro ou sectorielle | RAG pipeline, agents, API, dashboard |
+
+---
+
+## Livrables courants
 - Trading strategy prototyping and backtesting engines
 - Risk and PnL analytics (VaR, SVaR, Greeks, limits monitoring, PnL explain)
 - Market data pipelines (OHLCV, real-time feeds) and API integrations
@@ -25,38 +60,12 @@ Remote friendly. Working in French and English.
 
 ---
 
-## Selected projects
-| Project | Focus | Outcome |
-| --- | --- | --- |
-| AlphaLens AI | Multi-agent macro commentary + market signals | RAG pipeline, tool-using agents, scalable backend |
-| Risk and PnL monitoring | VaR/SVaR/Greeks/limits + PnL explain | Automated controls, dashboards, operational reporting |
-| Trading strategy research | Crypto, FX, equities backtests | KPI reporting and risk controls for decision making |
-| Financial process automation | Excel/VBA + Python + SQL | Faster desk workflows and clean integrations |
-| The Pricing Library | Quant finance education platform | 1000+ learners reached |
-
----
-
-## Highlights
-- Founder of OptiQuant IA (SASU), building SaaS products for quant research, AI, and automation.
-- Built AlphaLens AI, a multi-agent assistant for real-time macro commentary and market signal generation.
-- Delivered trading floor tooling, risk metrics, and PnL analytics for major banks and asset managers.
-
----
-
 ## Tech stack
 Core: Python, Pandas, NumPy, FastAPI, SQL, Docker, GitHub Actions.
 Quant and risk: VaR/SVaR, Greeks, scenario and sensitivity analysis, position sizing, drawdown control.
 Data and BI: Power BI, Power Query (M), Excel/VBA.
 AI: LLM apps, RAG pipelines, multi-agent systems, Supabase, N8N.
 Cloud and ops: AWS (EC2, S3), Supabase, Stripe, logging and monitoring.
-
----
-
-## How I work
-1. Define the decision you need to make and the metrics that matter.
-2. Build a lean prototype with reproducible research and clear KPIs.
-3. Productionize with tests, logging, and monitoring.
-4. Deliver documentation, handover, and optional maintenance.
 
 ---
 
