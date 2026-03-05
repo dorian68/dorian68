@@ -6,23 +6,39 @@ I build production-ready tools that turn market data into actionable signals, ro
 
 ---
 
-## Executive snapshot
-| Area | Details |
-| --- | --- |
-| Focus | Trading systems, risk analytics, financial automation, AI workflows |
-| Domains | Macro, equities, FX, crypto, portfolio monitoring |
-| Clients | Trading desks, risk teams, asset managers, SMEs |
-| Location | Paris / Guadeloupe (remote) |
-| Languages | English, French, Spanish |
+## Metrics
+<table>
+  <tr>
+    <td align="center"><b>8+ years</b><br>Markets & risk</td>
+    <td align="center"><b>5+ institutions</b><br>Tier-1 banks/asset managers</td>
+    <td align="center"><b>1000+ learners</b><br>The Pricing Library</td>
+    <td align="center"><b>3 languages</b><br>English, French, Spanish</td>
+  </tr>
+</table>
 
 ---
 
-## Proof
-| Signal | Evidence |
-| --- | --- |
-| Quant + AI SaaS | Founder of OptiQuant IA, building AlphaLens AI |
-| Enterprise finance | Delivered tooling for BNP Paribas Cardif, CACIB, Natixis, Societe Generale, AXA |
-| Education impact | The Pricing Library reached 1000+ learners |
+## Snapshot and portfolio
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <b>Snapshot</b><br><br>
+      Focus: trading systems, risk analytics, financial automation, AI workflows.<br>
+      Domains: macro, equities, FX, crypto, portfolio monitoring.<br>
+      Clients: trading desks, risk teams, asset managers, SMEs.<br>
+      Location: Paris / Guadeloupe (remote).<br>
+      Languages: English, French, Spanish.
+    </td>
+    <td width="55%" valign="top">
+      <b>Portfolio highlights</b><br><br>
+      <b>AlphaLens AI</b> - Macro commentary + market signals with multi-agent LLMs. Stack: Python, RAG, Supabase, N8N, AWS.<br><br>
+      <b>Risk and PnL monitoring</b> - VaR/SVaR/Greeks/limits + PnL explain tooling. Stack: VBA, Python, Power BI.<br><br>
+      <b>Trading strategy research</b> - Backtests and KPI reporting for decision making. Stack: Python, Pandas, NumPy.<br><br>
+      <b>Financial process automation</b> - Desk tools and reporting automation. Stack: Excel/VBA, Python, SQL.<br><br>
+      <b>The Pricing Library</b> - Quant finance education platform. Stack: Web + Python tooling.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,54 +77,8 @@ I build production-ready tools that turn market data into actionable signals, ro
 
 ---
 
-## Portfolio snapshot
-| Project | What it does | Stack |
-| --- | --- | --- |
-| AlphaLens AI | Macro commentary + market signals with multi-agent LLMs | Python, RAG, Supabase, N8N, AWS |
-| Risk and PnL monitoring | VaR/SVaR/Greeks/limits + PnL explain tooling | VBA, Python, Power BI |
-| Trading strategy research | Backtests and KPI reporting for decision making | Python, Pandas, NumPy |
-| Financial process automation | Fast desk tools and reporting automation | Excel/VBA, Python, SQL |
-| The Pricing Library | Quant finance education platform | Web + Python tooling |
-
----
-
-## Typical deliverables
-| Area | Examples |
-| --- | --- |
-| Trading systems | Strategy prototyping, backtesting engines, execution workflows |
-| Risk analytics | VaR/SVaR, Greeks, limits monitoring, PnL explain |
-| Data engineering | Market data pipelines, API integrations, automated reporting |
-| Desk tools | Excel/VBA proximity tools, Python utilities, dashboards |
-| AI tooling | RAG pipelines, multi-agent workflows, research assistants |
-
----
-
-## Workflow
-Discovery -> Prototype -> Productionize -> Handover
-
----
-
-## Tech stack
-Core: Python, Pandas, NumPy, FastAPI, SQL, Docker, GitHub Actions.
-Quant and risk: VaR/SVaR, Greeks, scenario and sensitivity analysis, position sizing, drawdown control.
-Data and BI: Power BI, Power Query (M), Excel/VBA.
-AI: LLM apps, RAG pipelines, multi-agent systems, Supabase, N8N.
-Cloud and ops: AWS (EC2, S3), Supabase, Stripe, logging and monitoring.
-
----
-
-## Experience highlights
-- Founder and Quant/AI Developer, OptiQuant IA (SASU), Jun 2024 - Present.
-- VBA/Python Developer, BNP Paribas Cardif, Oct 2023 - Feb 2024.
-- VBA/Python Consultant, CACIB via BK Consulting, Feb 2022 - Sep 2023.
-- Market Risk and PnL Monitoring Consultant, Natixis via BK Consulting.
-- Financial Controller - Investment Monitoring, AXA, Nov 2020 - Jan 2022.
-- Market Risk and Trading Analyst, Societe Generale Americas, Oct 2018 - Oct 2019.
-- Market Risk Analyst, Societe Generale CIB, Jan 2018 - Jul 2018.
-
----
-
-## Education and certifications
-- Executive Master in Quantitative Finance (Double Degree), Paris Dauphine-PSL and ENSAE Paris, 2022-2023.
-- Engineering Degree in Financial Engineering, ESILV, 2015-2018.
-- Bloomberg Market Concepts (BMC), TOEIC 805.
+## Background (one-page)
+- Founder and Quant/AI Developer, OptiQuant IA (2024 - Present)
+- VBA/Python tooling for trading and investment teams, BNP Paribas Cardif (2023 - 2024)
+- Risk and PnL analytics for CACIB and Natixis (2022 - 2023)
+- Market risk and investment monitoring for Societe Generale and AXA (2018 - 2022)
