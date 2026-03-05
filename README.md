@@ -77,7 +77,7 @@ I build production-ready tools that turn market data into actionable signals, ro
 
 ---
 
-## Background (one-page)
+## Background
 - Founder and Quant/AI Developer, OptiQuant IA (2024 - Present)
 - VBA/Python tooling for trading and investment teams, BNP Paribas Cardif (2023 - 2024)
 - Risk and PnL analytics for CACIB and Natixis (2022 - 2023)
